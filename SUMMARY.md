@@ -4,4 +4,4 @@
 
 ## Group 1
 
-* [사전 과제](group-1/undefined.md)
+* [1주차](group-1/1.md)
