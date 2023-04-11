@@ -1,6 +1,6 @@
 # Table of contents
 
-* [frontend-survival](README.md)
+* [프론트엔드 생존코스 3기](README.md)
 
 ## Group 1
 
