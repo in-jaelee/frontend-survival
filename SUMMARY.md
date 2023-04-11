@@ -4,8 +4,5 @@
 
 ## Group 1
 
-* [1주차](group-1/1.md)
-
-***
-
-* [환경 세팅](undefined.md)
+* [1주차](group-1/1/README.md)
+  * [1. 환경 세팅](group-1/1/1..md)
