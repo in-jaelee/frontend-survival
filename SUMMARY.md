@@ -10,3 +10,8 @@
   * [3. React](group-1/1/3.-react.md)
   * [4. Testing Library](group-1/1/4.-testing-library.md)
   * [5. Parcel & ESLint](group-1/1/5.-parcel-and-eslint.md)
+
+***
+
+* [2주차](2/README.md)
+  * [1. JSX](2/1.-jsx.md)
